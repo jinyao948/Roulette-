@@ -2,7 +2,7 @@
 
 Roulette is a game of chance in which a small ball is dropped onto a wheel that is spinning and the players guess in which hole it will finally stop. Players can make bets on various elements such as single bets, column bets and even/odd bets. 
 
-For this project, I created a mini roulette game using JavaScipt with simple betting features. 
+For this project, I created a mini roulette game using JavaScript with simple betting features. 
 
 ![image](https://user-images.githubusercontent.com/87969338/129994589-b4b9d552-46f2-4787-aff1-7f219cb5b998.png)
 
