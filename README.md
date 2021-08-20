@@ -16,14 +16,19 @@ The rules of the game are rather simple. The player first makes a choice on the 
 3. Red/Black: Placing a bet on whether the number is in a red or black box.
 4. Column Bet: Placing a bet on which column the ball will end up in.
 
-For convenience, I've included an image of a whole roulette set up below.
+For convenience, I've included an image of a whole roulette set up below (not the game interface :P) 
 
 ![image](https://user-images.githubusercontent.com/87969338/129994963-87c94424-fae3-4732-b7cd-b19feeb569a6.png)
 
+Do note that I do not advocate excessive gambling :) 
 
 ## Challenges
 
-I had some trouble with making sure the conditionals ran smoothly. Additionally, the CSS proved to be a challenge. I tried to create an interactive roulette board for the single bet section and had trouble with the alignment.  
+I had some trouble with making sure the conditionals ran smoothly and hence, spent quite a bit of time trying to debug it. Through the process, I learnt alot about how to debug errors as well the importance of having the right catch all statement. 
+
+Other lessons learnt include knowing when to move on to the next section. Often I would find myself spending excessive time on small issues.
+
+Additionally, the CSS proved to be a challenge. I tried to create an interactive roulette board for the single bet section and had trouble with the alignment. The alignment is still a little off but I'll work on it in the future. CSS continues to be a challenge for me and I'll need to find a way to really brush up on those skills.   
 
 ## Future Work/Steps
 
